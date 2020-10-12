@@ -37,6 +37,14 @@
     text-align:center;
 }
 
+.linea_proyectos{
+    width:10%;
+    border-width:5px;
+    color:white;
+    text-align:center;
+    background-color:white;
+}
+
 .texto_experiencia{
     font-family: 'Oswald', sans-serif;
     font-size:3.0em;
@@ -44,17 +52,24 @@
 }
 
 
-
-
-
 .fondo_proyectos{
+    background-color: #473f3f;
+
+}
+
+.fondo_footer{
     background-color: #dc3545;
-
+    text-align: center;
 }
 
-.texto_footer_logo{
-    font-family: 'Lobster', cursive;
+.fab{
+    color:white;
 }
+
+
+
+
+
 
 .carousel-indicators{
     top:200px;
