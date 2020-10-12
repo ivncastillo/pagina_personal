@@ -1,0 +1,29 @@
+
+.body{
+    font-family: 'Cabin', sans-serif;
+}
+.texto_navbar_logo{
+    font-family: 'Lobster', cursive;
+    font-size:2.3em;
+}
+
+.fondo_footer{
+    background-color: #dc3545;
+
+}
+
+.texto_footer_logo{
+    font-family: 'Lobster', cursive;
+}
+
+.carousel-indicators{
+    top:200px;
+}
+
+
+.carousel-indicators li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color:black;
+}
