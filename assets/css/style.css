@@ -58,7 +58,7 @@
 }
 
 .fondo_footer{
-    background-color: #dc3545;
+    background-color: #411418;
     text-align: center;
 }
 
@@ -67,18 +67,26 @@
 }
 
 
-
-
-
-
 .carousel-indicators{
-    top:200px;
+    top:33em;
 }
 
 
 .carousel-indicators li{
-    width: 10px;
-    height: 10px;
+    width: 0.8em;
+    height: 0.8em;
     border-radius: 50%;
     background-color:black;
+}
+
+.carousel-control-prev-icon{
+    background-color:rgb(54, 53, 53);
+    width: 2.3em;
+    height: 2.3em;
+}
+
+.carousel-control-next-icon{
+    background-color:rgb(54, 53, 53);
+    width: 2.3em;
+    height: 2.3em;
 }
